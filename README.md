@@ -10,9 +10,6 @@ Tested up to: 6.3
 
 Stable tag: 1.0
 
-License: GPLv2 or later
-
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A plugin to delete unused images from the WordPress database and `wp-content/uploads` directory. You can trigger the cleanup process via a URL and limit how many images to delete per request.
 
@@ -47,10 +44,5 @@ If the `limit` parameter is not specified, the plugin will attempt to delete all
 ### Security Notice ###
 
 This plugin triggers the deletion of media files via a publicly accessible URL. It is recommended to secure the URL by requiring an admin login or adding a secret key parameter to the URL if the site is publicly accessible.
-
-
-### License ###
-
-This plugin is free software and is licensed under the GNU General Public License v2.0 or later.
 
 
