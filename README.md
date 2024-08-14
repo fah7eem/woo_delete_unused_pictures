@@ -39,7 +39,7 @@ YOUR_WEBSITE/delete-unused-images/
 /delete-unused-images/?limit=10
 
 
-If the `limit` parameter is not specified, the plugin will attempt to delete all unused images in one request.
+If the `limit` parameter is not specified, the plugin will attempt to delete upto a 1000 unused images in one request.
 
 ### Security Notice ###
 
