@@ -11,11 +11,11 @@ Tested up to: 6.3
 Stable tag: 1.0
 
 
-A plugin to delete unused images from the WordPress database and `wp-content/uploads` directory. You can trigger the cleanup process via a URL and limit how many images to delete per request.
+A plugin to delete unused  WooCommerce product images from the WordPress database and `wp-content/uploads` directory. You can trigger the cleanup process via a URL and limit how many images to delete per request.
 
 ### Description ###
 
-The **Delete Unused Images** plugin helps you clean up unused media files from your WordPress installation. It identifies images in the media library that are not associated with any WooCommerce products and deletes them both from the database and the server's `wp-content/uploads` directory.
+The **Delete Unused Images** plugin helps you clean up unused  WooCommerce product media files from your WordPress installation. It identifies images in the media library that are not associated with any WooCommerce products and deletes them both from the database and the server's `wp-content/uploads` directory.
 
 You can trigger the image deletion process by visiting a specific URL. Additionally, you can limit how many images are deleted in a single request by passing a `limit` parameter in the URL.
 
