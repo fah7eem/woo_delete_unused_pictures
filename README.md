@@ -1,11 +1,17 @@
 ## Delete Unused Images ##
 
 Contributors: Faheem Seedat
+
 Tags: images, media, cleanup, WordPress, WooCommerce
+
 Requires at least: 5.0
+
 Tested up to: 6.3
+
 Stable tag: 1.0
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A plugin to delete unused images from the WordPress database and `wp-content/uploads` directory. You can trigger the cleanup process via a URL and limit how many images to delete per request.
